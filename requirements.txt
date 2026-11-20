@@ -1,0 +1,3 @@
+# Runtime dependency (market_data only; order_executor uses the standard library).
+# Tests use the standard library's unittest: no test dependencies.
+websockets==15.0.1
